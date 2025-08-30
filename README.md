@@ -6,10 +6,10 @@
 
 ## Installation:
   ## Option 1
-  -pip install git+https://github.com/USERNAME/ip-checker.git
+  -pip install git+https://github.com/Qnetik/ip-checker.git
   
   ## Option 2
-  -git clone https://github.com/USERNAME/ip-checker.git
+  -git clone https://github.com/Qnetik/ip-checker.git
   -cd ip-checker
   -pip install -r requirements.txt  # install dependencies
   -pip install .                    # install the package
