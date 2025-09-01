@@ -7,12 +7,12 @@ It uses the [ipwho.is](https://ipwhois.io/) API, and the IP/URL address validati
 
 ### Option 1 (via pip)
 ```bash
-pip install git+https://github.com/Qnetik/ip-checker.git
+pip install git+https://github.com/Qnetik/Ipexe.git
 ```
 ### Option 2 (via clone)
 
 ```bash
-git clone https://github.com/Qnetik/ip-checker.git
+git clone https://github.com/Qnetik/Ipexe.git
 cd ip-checker
 pip install -r requirements.txt  
 pip install .                    
@@ -22,6 +22,6 @@ pip install .
 ```bash
 ipexe <IP_ADDRESS_or_URL>
 ```
-
+![Example of work](Ipexef.jpg)
  
   
